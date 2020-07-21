@@ -1,0 +1,15 @@
+ 1) According to me Blockchain is a way or is a kind of data structure to store records like banking records or transaction records in a decentralized manner so that if there is a failure all records are not lost. It is somewhat like a linked list but more secure.
+
+2) It solves the problem of middle man as due to block chain he wont be necessary,
+
+3)  *Data stored in blockchain is immutable
+	*Blockchain is Decentralized
+	*Tamper proof
+	*Verifiable	
+
+4)	*Block number
+	*transaction records
+	*previous block signature
+	*mining key
+
+5) A key is sent to many computers , these computers or machines have same record . Then these computers generate a new key using the key given and the document .Then these keys are checked with all the computers as key that is generated should be same for each and every computer. If at all key of any computer differs then we can verify its data is wrong and has to change it.In this way verifiability is attained.
